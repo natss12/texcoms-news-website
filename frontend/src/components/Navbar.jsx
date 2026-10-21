@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import DateRangeCalendar from "./DateRangeCalendar.jsx";
 
-const categories = ["all", "Markets", "World", "Technology", "Business", "National", "Delhi", "Science"];
+const categories = ["all", "Markets", "World", "Technology", "Business", "National", "Delhi", "Science", "Sports"];
 const datePresets = [
   { id: "all", label: "Any date" },
   { id: "today", label: "Today" },

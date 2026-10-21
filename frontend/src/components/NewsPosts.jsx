@@ -71,7 +71,7 @@ function BlogPosts({ searchQuery, filters, selectedStoryId }) {
   const stories = [
     ...posts.map((post) => ({
       ...post,
-      label: "Markets",
+      label: post.category,
       date: post.publishedAt.slice(0, 10),
       publishedDateTime: post.publishedAt,
       url: post.sourceUrl,

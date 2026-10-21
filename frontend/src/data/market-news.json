@@ -2,6 +2,7 @@
   {
     "id": "sensex-nifty-it-rally-2026-10-16",
     "title": "16 October 2026 Stock Market Updates: Sensex, Nifty Open in Green as IT Shares Rally",
+    "category": "Markets",
     "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/10/stockmarketptiss-2-1792123710.webp",
     "imageAlt": "Sensex and Nifty market update, October 16, 2026",
     "summary": [
@@ -48,6 +49,7 @@
   {
     "id": "gold-silver-recovery-2026-10-15",
     "title": "Gold and Silver Recover as Crude Oil Rally Pauses; Check City-Wise Rates",
+    "category": "Markets",
     "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/10/goldsilverprice-1792052691.webp",
     "imageAlt": "Gold and silver price update, October 15, 2026",
     "summary": [
@@ -96,6 +98,7 @@
   {
     "id": "jio-platforms-ipo-ril-rerating-2026-10-19",
     "title": "Jio IPO Could Be a Structural Inflection Point for Reliance Industries' Re-Rating: Analysts",
+    "category": "Business",
     "image": "https://media.fortuneindia.com/fortune-india/2026-09-21/wufyu1m8/Jio-Platforms.png?w=640&auto=format,compress&q=80",
     "imageAlt": "Jio Platforms IPO",
     "summary": [
@@ -142,6 +145,7 @@
   {
     "id": "ukraine-drone-attacks-russia-2026-10-18",
     "title": "Ukraine Fires More Than 1,000 Drones at Russia; Oil Sites in St Petersburg Ablaze",
+    "category": "World",
     "image": "https://c.ndtvimg.com/2026-10/kfq880j4_russia_625x300_18_October_26.png?im=FaceCrop,algorithm=dnn,width=773,height=435",
     "imageAlt": "Oil terminal fire in St Petersburg following an air attack",
     "summary": [
@@ -187,6 +191,7 @@
   {
     "id": "kolkata-durga-puja-stampede-2026-10-18",
     "title": "Kolkata Durga Puja Stampede: 19 Killed, Including Women and a Child",
+    "category": "National",
     "image": "https://cf-images.assettype.com/thequint%2F2026-10-18%2F5jgwasi9%2FKolkata-Stampede.jpg?auto=format%2Ccompress&fmt=webp&width=720",
     "imageAlt": "Image accompanying The Quint report on the Kolkata Durga Puja pandal stampede",
     "summary": [
@@ -225,6 +230,7 @@
   {
     "id": "sheetal-devi-world-record-equalling-2026-10-19",
     "title": "Sheetal Devi Creates History With World Record-Equalling Show in Asian Para Games",
+    "category": "Sports",
     "image": "https://images.timesnownews.com/thumb/msid-156364415,thumbsize-686638,width-1280,height-720,resizemode-75/156364415.jpg",
     "imageAlt": "Indian para-archer Sheetal Devi at the Asian Para Games",
     "summary": [
@@ -264,6 +270,7 @@
   {
     "id": "urban-company-instahelp-losses-2026-10-19",
     "title": "Urban Company Shares Fall Over 7% as Losses Mount on InstaHelp Investments",
+    "category": "Business",
     "image": "https://images.cnbctv18.com/uploads/2026/10/urban-company-stock-falls-amid-losses-2026-10-dd8ebae1f31f192e23f5e6267816a52b.jpg?impolicy=website&width=416&height=234",
     "imageAlt": "Urban Company stock market news",
     "summary": [
@@ -310,6 +317,7 @@
   {
     "id": "pakistan-sri-lanka-tri-series-salman-agha-2026-10-19",
     "title": "Salman Agha's Century Helps Pakistan Beat Sri Lanka by 37 Runs in Tri-Series Opener",
+    "category": "Sports",
     "image": "https://www.hindustantimes.com/ht-img/img/2026/10/19/960x540/CRICKET-PAK-SRI-ODI-37_1792376642165_TgxL_1792376663398_nZG5_24034f09-bddf-4d06-a486-8e2f7ecf9125_d6e6.jpg",
     "imageAlt": "Pakistan's Salman Agha celebrates after scoring a century",
     "summary": [
